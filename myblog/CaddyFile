@@ -1,0 +1,3 @@
+:80 {
+    root /home/madmin/myblog/myblog/public
+}
